@@ -1,6 +1,7 @@
 # Hayo! I'm Sae.
-
-## socials:
+  ## i am passionate about web dev and game dev.
+  
+## socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]((https://discord.com/users/1263303749984850102)) 
 
 ## tech stack
