@@ -5,3 +5,9 @@
  <p align="center"> Hi ! i'm @SaeDoesCode , passionate about building my own games , </p>
  <p align="center">  exploring new things , improving and expanding my skills every day.  </p>
 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
