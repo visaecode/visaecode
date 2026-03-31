@@ -1,4 +1,4 @@
 ## Game Developer & Freelancer
-starting 
+	had to start making
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
