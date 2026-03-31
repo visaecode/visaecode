@@ -6,6 +6,36 @@
   my own games , exploring new things , improving and
    expanding my skills every day.  
 
+```yaml
+name: Your Name
+located_in: Your Location
+current_job: Your Job
+
+education:
+  [
+    "Your education 1",
+    "Your education 2"
+  ]
+
+company: Your Company
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning"
+  ]
+
+technical_background:
+  [
+    "Full Stack Developer",
+    "Intern - Something"
+  ]
+
+currently_learning: ["Docker", "React"]
+2026_goals: ["Build projects"]
+hobbies: ["Gaming", "Music"]
+```
 
 ## 
 
