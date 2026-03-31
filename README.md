@@ -24,8 +24,12 @@ fields_of_interests:
     "UI/UX"
   ]
 
-
-hobbies: ["Graphic Designing", "3d Arts"]
+hobbies:
+  [
+    "3D Designing",
+    "Graphic Design",
+    "Cosplaying"
+  ]
 ```
 
 ## 
