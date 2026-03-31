@@ -1,4 +1,6 @@
-<img width="580" height="309" alt="sdawdad-removebg-preview" src="https://github.com/user-attachments/assets/c3aba7d9-b88d-47fd-878a-72285b1a3c98" />
+<p align="center">
+   <img width="580" height="309" alt="sdawdad-removebg-preview" src="https://github.com/user-attachments/assets/c3aba7d9-b88d-47fd-878a-72285b1a3c98" />
+</p>
 
 #  <p align="center">🪲  ＳＡＥ ： ＤＯＥＳＣＯＤＥ</p>
 
