@@ -1,8 +1,6 @@
+<img width="680" height="209" alt="546546-removebg-preview" src="https://github.com/user-attachments/assets/68f15f16-c60b-4f50-9297-12b380f74628" />
 
-![546546](https://github.com/user-attachments/assets/79415281-5b99-4aba-a8b0-8ec3185cb4f8)
-
-##  . . . .     🍜 
-   ＳＡＥ ： ＤＯＥＳＣＯＤＥ
+##  . . . .     🍜  ＳＡＥ ： ＤＯＥＳＣＯＤＥ
 
 Hi ! i'm @SaeDoesCode , passionate about building my own games , 
 exploring new things , improving and expanding my skills every day. 
