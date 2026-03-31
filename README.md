@@ -2,9 +2,11 @@
 
 #  <p align="center">🍜  ＳＡＥ ： ＤＯＥＳＣＯＤＥ</p>
 
- <p align="center"> Hi ! i'm @SaeDoesCode , passionate about building my own games , </p>
- <p align="center">  exploring new things , improving and expanding my skills every day.  </p>
-
+ <p align="center"> 
+  Hi ! i'm @SaeDoesCode , passionate about building my own games , 
+ exploring new things , improving and expanding my skills every day.  
+  
+ </p>
 
 ## 
 
