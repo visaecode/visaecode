@@ -34,11 +34,4 @@ hobbies:
 
 ## 
 
-<p font-size="10px" align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,godot,ai,ps,robloxstudio" />
-  </a>
-</p>
-
-<img align="center" width="555" height="275" alt="222d-removebg-preview" src="https://github.com/user-attachments/assets/05d65571-aaf1-407b-b6b6-9fe403f1dc9e" />
 
