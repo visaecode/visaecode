@@ -1,40 +1,31 @@
 <img width="1680" height="1209" alt="546546-removebg-preview" src="https://github.com/user-attachments/assets/68f15f16-c60b-4f50-9297-12b380f74628" />
 
-#  <p align="center">🍜  ＳＡＥ ： ＤＯＥＳＣＯＤＥ</p>
+#  <p align="center">🪲  ＳＡＥ ： ＤＯＥＳＣＯＤＥ</p>
 
  Hi ! i'm @SaeDoesCode , passionate about building 
   my own games , exploring new things , improving and
    expanding my skills every day.  
 
 ```yaml
-name: Your Name
-located_in: Your Location
-current_job: Your Job
+name: Sae
+located_in: Manila, Philippines
+current_job: Freelance
 
 education:
   [
-    "Your education 1",
-    "Your education 2"
+    "Bachelor's in Information Technology",
+    "Self-taught Developer"
   ]
-
-company: Your Company
 
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
-    "Machine Learning"
+    "Game Development",
+    "UI/UX"
   ]
 
-technical_background:
-  [
-    "Full Stack Developer",
-    "Intern - Something"
-  ]
 
-currently_learning: ["Docker", "React"]
-2026_goals: ["Build projects"]
-hobbies: ["Gaming", "Music"]
+hobbies: ["Graphic Designing", "3d Arts"]
 ```
 
 ## 
