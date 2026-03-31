@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [Your Name]
+## 🍜 ＳＡＥ ： ＤＯＥＳＣＯＤＥ
 
 Welcome to my GitHub!  
 I'm passionate about building projects, learning new technologies, and improving my skills every day.
