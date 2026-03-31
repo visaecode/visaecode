@@ -1,4 +1,4 @@
-<img width="1680" height="1209" alt="546546-removebg-preview" src="https://github.com/user-attachments/assets/68f15f16-c60b-4f50-9297-12b380f74628" />
+<img width="1680" height="1209" alt="sdawdad-removebg-preview" src="https://github.com/user-attachments/assets/c3aba7d9-b88d-47fd-878a-72285b1a3c98" />
 
 #  <p align="center">🪲  ＳＡＥ ： ＤＯＥＳＣＯＤＥ</p>
 
@@ -39,3 +39,6 @@ hobbies:
     <img src="https://skillicons.dev/icons?i=blender,godot,ai,ps,robloxstudio" />
   </a>
 </p>
+
+<img width="666" height="375" alt="222d-removebg-preview" src="https://github.com/user-attachments/assets/05d65571-aaf1-407b-b6b6-9fe403f1dc9e" />
+
