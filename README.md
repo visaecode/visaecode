@@ -1,7 +1,7 @@
-## 🍜 ＳＡＥ ： ＤＯＥＳＣＯＤＥ
 
-Welcome to my GitHub!  
-I'm passionate about building projects, learning new technologies, and improving my skills every day.
+##      🍜    ＳＡＥ ： ＤＯＥＳＣＯＤＥ
+
+Hi ! i'm sae , passionate about building my own games , exploring new things , improving and expanding my skills every day. 
 
 🔧 Currently working on: [Your Project / Focus]  
 📚 Currently learning: [Tech / Skill]  
