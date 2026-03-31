@@ -1,4 +1,10 @@
-## Game Developer & Freelancer
-- make
+## 👋 Hi, I'm [Your Name]
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Welcome to my GitHub!  
+I'm passionate about building projects, learning new technologies, and improving my skills every day.
+
+🔧 Currently working on: [Your Project / Focus]  
+📚 Currently learning: [Tech / Skill]  
+🚀 Goal: To grow as a developer and create useful, impactful projects  
+
+Feel free to explore my repositories!
