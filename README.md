@@ -1,5 +1,5 @@
 
-##      🍜    ＳＡＥ ： ＤＯＥＳＣＯＤＥ
+##  . . . .     🍜    ＳＡＥ ： ＤＯＥＳＣＯＤＥ
 
 Hi ! i'm sae , passionate about building my own games , exploring new things , improving and expanding my skills every day. 
 
