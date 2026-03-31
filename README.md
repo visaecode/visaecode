@@ -6,7 +6,8 @@
  <p align="center">  exploring new things , improving and expanding my skills every day.  </p>
 
 
-## my skillset
+## 
+
 <p font-size="10px" align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
