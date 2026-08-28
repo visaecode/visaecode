@@ -1,1 +1,1 @@
-<img align="right" src="https://pixels.crd.co/assets/images/gallery11/11e1dfb2.gif?v=29416114" width="100">
+<img align="right" src="https://pixels.crd.co/assets/images/gallery11/11e1dfb2.gif?v=29416114" width="10">
