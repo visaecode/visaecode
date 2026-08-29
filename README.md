@@ -17,24 +17,24 @@
 
 ## `? skill set`
 
-<table align="left"  width="100">
+<table align="left"  width="100%">
   <tr>
-    <td align="center" valign="top"  width="100">
+    <td align="center" valign="top"  width="100%">
       <h3>frontend</h3>
       <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap" width="200">
     </td>
-    <td align="center" valign="top"  width="100">
+    <td align="center" valign="top"  width="100%">
       <h3>backend</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,firebase,sqlite" width="200">
     </td>
   </tr>
 
   <tr>
-    <td align="center" valign="top"  width="100">
+    <td align="center" valign="top"  width="100%">
       <h3>languages</h3>
       <img src="https://skillicons.dev/icons?i=javascript,python,php,java" width="170">
     </td>
-    <td align="center" valign="top"  width="100">
+    <td align="center" valign="top"  width="100%">
       <h3>tools</h3>
       <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,blender" width="200">
     </td>
