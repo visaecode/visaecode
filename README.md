@@ -20,7 +20,7 @@ Aspiring software developer blending visual design, user experience, and technol
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="70%">
 
 ### `frontend`
 
@@ -30,7 +30,7 @@ Aspiring software developer blending visual design, user experience, and technol
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="70%">
 
 ### `backend`
 
@@ -42,7 +42,7 @@ Aspiring software developer blending visual design, user experience, and technol
 </tr>
 
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="70%">
 
 ### `languages`
 
@@ -52,7 +52,7 @@ Aspiring software developer blending visual design, user experience, and technol
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="70%">
 
 ### `tools`
 
