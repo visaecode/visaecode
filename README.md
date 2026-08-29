@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Busy-success" alt="Status: Active">
+  <img src="https://img.shields.io/badge/Status-Busy-yellow" alt="Status: Active">
   <img src="https://img.shields.io/badge/Focus-Software%20Development-red" alt="Focus: Software Development">
 </p>
 
