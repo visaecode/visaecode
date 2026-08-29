@@ -11,7 +11,7 @@
 ---
 
 <p align="center" style="font-size: 40;">
-  when creativity meets development.
+Aspiring software developer blending visual design, user experience, and technology — where creativity meets development.
 </p>
 
 ---
