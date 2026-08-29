@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Freelance developer building web applications, tools, and whatever interesting projects come my way.
+  where creativity meets development.
 </p>
 
 <p align="center">
