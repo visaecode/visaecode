@@ -12,52 +12,43 @@
 
 ## `$ skills --list`
 
-<table>
-<tr>
-<td align="center" valign="top"\>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
 
-### `frontend`
+      <h3>frontend</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" width="250" alt="Frontend skills">
-</p>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" width="250">
 
-</td>
+    </td>
 
-<td align="center" valign="top">
+    <td align="center" valign="top">
 
-### `backend`
+      <h3>backend</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,firebase,sqlite" width="250" alt="Backend skills">
-</p>
+      <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,firebase,sqlite" width="250">
 
-</td>
-</tr>
+    </td>
+  </tr>
 
-<tr>
-<td align="center" valign="top">
+  <tr>
+    <td align="center" valign="top">
 
-### `languages`
+      <h3>languages</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,php,java,cpp,dart" width="250" alt="Programming languages">
-</p>
+      <img src="https://skillicons.dev/icons?i=javascript,python,php,java,cpp,dart" width="250">
 
-</td>
+    </td>
 
-<td align="center" valign="top">
+    <td align="center" valign="top">
 
-### `tools`
+      <h3>tools</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,blender" width="250" alt="Development tools">
-</p>
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,blender" width="250">
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
-
 
 ---
 
