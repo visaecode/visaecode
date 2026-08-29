@@ -29,11 +29,11 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <h3>languages</h3>
-      <img src="https://skillicons.dev/icons?i=javascript,python,php,java" width="170">
+      <img src="https://skillicons.dev/icons?i=javascript,python,php,java,lua" width="170">
     </td>
     <td align="center" valign="top" width="50%">
       <h3>tools</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,blender" width="200">
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,blender,godot" width="200">
     </td>
   </tr>
 </table>
