@@ -25,7 +25,7 @@ Aspiring software developer blending visual design, user experience, and technol
 ### `frontend`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" width="250">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" width="250" alt="Frontend skills">
 </p>
 
 </td>
@@ -35,11 +35,13 @@ Aspiring software developer blending visual design, user experience, and technol
 ### `backend`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,firebase,sqlite" width="200">
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,firebase,sqlite" width="200" alt="Backend skills">
 </p>
 
 </td>
+</tr>
 
+<tr>
 <td valign="top" width="50%">
 
 ### `languages`
@@ -49,6 +51,7 @@ Aspiring software developer blending visual design, user experience, and technol
 </p>
 
 </td>
+
 <td valign="top" width="50%">
 
 ### `tools`
@@ -60,6 +63,7 @@ Aspiring software developer blending visual design, user experience, and technol
 </td>
 </tr>
 </table>
+
 
 ---
 
