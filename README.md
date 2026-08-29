@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/saedoescode.png" width="700" alt="saedoescode">
+  <img src="assets/saedoescode.png" width="2000" alt="saedoescode">
 </p>
-
-<h1 align="center">Hey, I'm Sae 👋</h1>
 
 <p align="center">
   Freelance developer building web applications, tools, and whatever interesting projects come my way.
