@@ -20,7 +20,7 @@ Aspiring software developer blending visual design, user experience, and technol
 
 <table>
 <tr>
-<td valign="top" width="50%" style="border: 0;>
+<td valign="top" width="50%" style="border: 0;">
 
 ### `frontend`
 
@@ -30,7 +30,7 @@ Aspiring software developer blending visual design, user experience, and technol
 
 </td>
 
-<td valign="top" width="50%" style="border: 0;>
+<td valign="top" width="50%" style="border: 0;">
 
 ### `backend`
 
