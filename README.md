@@ -9,7 +9,10 @@
 </p>
 
 ---
-
+<p align="center">
+  Aspiring software developer blending visual design, user experience, and technology — where creativity meets development.
+</p>
+---
   ## `? skill set`
 
 <table align="left">
