@@ -14,9 +14,6 @@
 </p>
 
 ---
-
-<h2 align="center">? skill set</h2>
-
 <table align="center">
   <tr>
     <td align="center" valign="top" width="50%">
