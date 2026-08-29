@@ -5,10 +5,9 @@
 <div align="center">
 
 <img src="assets/character.gif" width="100">
-
+---
 </div>
 
----
 
 > under construction :/
 lorem ipsum yeayeya
