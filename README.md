@@ -15,11 +15,11 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="top">
+    <td align="left" valign="top">
       <h3>frontend</h3>
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" width="250">
     </td>
-    <td align="center" valign="top">
+    <td align="right" valign="top">
       <h3>backend</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,firebase,sqlite" width="250">
     </td>
