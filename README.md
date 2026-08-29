@@ -10,8 +10,10 @@ Freelance developer building web applications, tools, and whatever interesting
 projects come my way.
 
 ---
+<div align="center">
+  ![Status](https://img.shields.io/badge/Status-Active-success)
+</div>
 
-![Status](https://img.shields.io/badge/Status-Active-success)
 ## `$ skills --list`
 
 ### web · frontend
