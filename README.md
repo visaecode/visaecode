@@ -35,7 +35,7 @@ Aspiring software developer blending visual design, user experience, and technol
 ### `backend`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,firebase,sqlite" width="250">
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,firebase,sqlite" width="200">
 </p>
 
 </td>
