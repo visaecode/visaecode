@@ -10,7 +10,7 @@
 
 ---
 
->   where creativity meets development.
+>  I turn ideas into interfaces, visuals, and working software, blending design and development to build things that not only work, but look good doing it.  
 
 <div align="center">
   <img src="assets/character.gif" width="120" alt="Character animation">
