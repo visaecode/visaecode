@@ -18,17 +18,29 @@ Aspiring software developer blending visual design, user experience, and technol
 
 ## `$ skills --list`
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### `frontend`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" width="280" alt="Frontend skills">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" width="250">
 </p>
+
+</td>
+
+<td valign="top" width="50%">
 
 ### `backend`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,firebase,sqlite" width="280" alt="Backend and database skills">
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,firebase,sqlite" width="250">
 </p>
+
+</td>
+</tr>
+</table>
 
 ### `languages`
 
