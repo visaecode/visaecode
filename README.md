@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center" style="font-size: 40px;">
+<p align="center" style="font-size: 40;">
   when creativity meets development.
 </p>
 
