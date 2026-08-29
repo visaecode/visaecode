@@ -18,7 +18,7 @@
 ## `? skill set`
 
 <table align="left">
-  <tr>
+  <tr width="60">
     <td align="center" valign="top">
       <h3>frontend</h3>
       <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap" width="200">
