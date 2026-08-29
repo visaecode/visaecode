@@ -39,9 +39,4 @@
       <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,blender" width="200">
     </td>
   </tr>
-  <tr>
-    <td align="center" valign="top">
-        <a href="https://github.com/saedoescode">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </tr>
 </table>
