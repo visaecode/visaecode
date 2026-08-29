@@ -49,14 +49,17 @@ Aspiring software developer blending visual design, user experience, and technol
 </p>
 
 </td>
-</tr>
-</table>
+<td valign="top" width="50%">
 
 ### `tools`
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,blender" width="240" alt="Development tools">
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
