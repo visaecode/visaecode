@@ -4,7 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Busy-yellow" alt="Status: Active">
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-red" alt="Focus: Software Development">
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-red" alt="Focus: Software Development">  
+  <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="yes">
 </p>
 
 ---
