@@ -1,38 +1,75 @@
-<p align="left">
-  <img src="assets/saedoescode.png" width="2000" height="2000" margin="0">
+<p align="center">
+  <img src="assets/saedoescode.png" width="700" alt="saedoescode">
+</p>
+
+<h1 align="center">Hey, I'm Sae 👋</h1>
+
+<p align="center">
+  Freelance developer building web applications, tools, and whatever interesting projects come my way.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success" alt="Status: Active">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue" alt="Focus: Web Development">
 </p>
 
 ---
 
 > I am only commit-productive during project acquisition.
 
-Freelance developer building web applications, tools, and whatever interesting
-projects come my way.
+<div align="center">
+  <img src="assets/character.gif" width="120" alt="Character animation">
+</div>
 
 ---
-<div align="center">
-  ![Status](https://img.shields.io/badge/Status-Active-success)
-</div>
 
 ## `$ skills --list`
 
-### web · frontend
+### `web · frontend`
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" alt="Frontend skills">
+</p>
 
-### languages
+### `languages`
 
-<img src="https://skillicons.dev/icons?i=javascript,python,php,java,cpp,dart" />
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,python,php,java,cpp,dart" alt="Programming languages">
+</p>
 
-### backend · data
+### `backend · data`
 
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase,sqlite" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase,sqlite" alt="Backend and database skills">
+</p>
 
-### tools
+### `tools`
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,blender" />
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,blender" alt="Development tools">
+</p>
 
-<img src="assets/character.gif" width="100">
+---
 
-</div>
+## `$ currently --building`
+
+```text
+▸ Web applications
+▸ Developer tools
+▸ Freelance projects
+▸ Random ideas that somehow become projects
+```
+
+---
+
+## `$ contact --me`
+
+<p align="center">
+  <a href="https://github.com/saedoescode">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Built with questionable amounts of caffeine ☕</sub>
+</p>
