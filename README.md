@@ -10,7 +10,7 @@
 
 ---
 
-## `$ skills --list`
+## `$ skill set`
 
 <table align="center">
   <tr>
