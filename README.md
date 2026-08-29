@@ -2,10 +2,12 @@
   <img src="assets/saedoescode.png" width="2000" height="2000">
 </p>
 ---
+
 > I am only commit-productive during project acquisition.
 
 Freelance developer building web applications, tools, and whatever interesting
 projects come my way.
+
 ---
 
 ## `$ skills --list`
