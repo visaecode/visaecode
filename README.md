@@ -4,19 +4,14 @@
 
 <div align="center">
 
-// ### `freelance developer · software engineer` //
-
 <img src="assets/character.gif" width="100">
 
 </div>
 
 ---
 
-> I am only commit-productive during project acquisition.
-
-Freelance developer building web applications, tools, and whatever interesting
-projects come my way.
-
+> under construction :/
+lorem ipsum yeayeya
 ---
 
 ## `$ skills --list`
