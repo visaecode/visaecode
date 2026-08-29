@@ -3,17 +3,13 @@
 </p>
 
 <p align="center">
-  where creativity meets development.
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Status-Busy-yellow" alt="Status: Active">
   <img src="https://img.shields.io/badge/Focus-Software%20Development-red" alt="Focus: Software Development">
 </p>
 
 ---
 
-> I am only commit-productive during project acquisition.
+>   where creativity meets development.
 
 <div align="center">
   <img src="assets/character.gif" width="120" alt="Character animation">
