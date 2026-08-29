@@ -10,7 +10,7 @@
 
 ---
 
-## `$ skill set`
+## `? skill set`
 
 <table align="center">
   <tr>
