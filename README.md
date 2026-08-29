@@ -11,6 +11,7 @@ projects come my way.
 
 ---
 
+![Status](https://img.shields.io/badge/Status-Active-success)
 ## `$ skills --list`
 
 ### web · frontend
