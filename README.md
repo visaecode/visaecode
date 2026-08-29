@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="50%">
+<td align="center" valign="top"\>
 
 ### `frontend`
 
@@ -24,7 +24,7 @@
 
 </td>
 
-<td align="center" valign="top" width="50%">
+<td align="center" valign="top">
 
 ### `backend`
 
@@ -36,7 +36,7 @@
 </tr>
 
 <tr>
-<td align="center" valign="top" width="50%">
+<td align="center" valign="top">
 
 ### `languages`
 
@@ -46,7 +46,7 @@
 
 </td>
 
-<td align="center" valign="top" width="50%">
+<td align="center" valign="top">
 
 ### `tools`
 
