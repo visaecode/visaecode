@@ -1,6 +1,7 @@
 <p align="left">
-  <img src="assets/saedoescode.png" width="2000" height="2000">
+  <img src="assets/saedoescode.png" width="2000" height="2000" margin="0">
 </p>
+
 ---
 
 > I am only commit-productive during project acquisition.
