@@ -21,25 +21,25 @@ Aspiring software developer blending visual design, user experience, and technol
 ### `web · frontend`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" alt="Frontend skills">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" width="280" alt="Frontend skills">
 </p>
 
 ### `languages`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,php,java,cpp,dart" alt="Programming languages">
+  <img src="https://skillicons.dev/icons?i=javascript,python,php,java,cpp,dart" width="280" alt="Programming languages">
 </p>
 
 ### `backend · data`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase,sqlite" alt="Backend and database skills">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase,sqlite" width="280" alt="Backend and database skills">
 </p>
 
 ### `tools`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,blender" alt="Development tools">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,blender" width="240" alt="Development tools">
 </p>
 
 ---
@@ -51,11 +51,6 @@ Aspiring software developer blending visual design, user experience, and technol
 ▸ Developer tools
 ▸ Freelance projects
 ▸ Random ideas that somehow become projects
-```
-
----
-
-## `$ contact --me`
 
 <p align="center">
   <a href="https://github.com/saedoescode">
