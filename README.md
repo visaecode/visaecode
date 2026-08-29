@@ -13,13 +13,13 @@
   ## `? skill set`
 
 
-<table align="center">
+<table align="left">
   <tr>
-    <td align="left" valign="top">
+    <td align="center" valign="top">
       <h3>frontend</h3>
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" width="250">
     </td>
-    <td align="right" valign="top">
+    <td align="center" valign="top">
       <h3>backend</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,firebase,sqlite" width="250">
     </td>
