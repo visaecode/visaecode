@@ -10,17 +10,11 @@
 
 ---
 
-<p align="center" style="font-size: 40;">
-Aspiring software developer blending visual design, user experience, and technology — where creativity meets development.
-</p>
-
----
-
 ## `$ skills --list`
 
 <table>
 <tr>
-<td valign="top" width="70%">
+<td align="center" valign="top" width="50%">
 
 ### `frontend`
 
@@ -30,34 +24,34 @@ Aspiring software developer blending visual design, user experience, and technol
 
 </td>
 
-<td valign="top" width="70%">
+<td align="center" valign="top" width="50%">
 
 ### `backend`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,firebase,sqlite" width="200" alt="Backend skills">
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,firebase,sqlite" width="250" alt="Backend skills">
 </p>
 
 </td>
 </tr>
 
 <tr>
-<td valign="top" width="70%">
+<td align="center" valign="top" width="50%">
 
 ### `languages`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,php,java,cpp,dart" width="280" alt="Programming languages">
+  <img src="https://skillicons.dev/icons?i=javascript,python,php,java,cpp,dart" width="250" alt="Programming languages">
 </p>
 
 </td>
 
-<td valign="top" width="70%">
+<td align="center" valign="top" width="50%">
 
 ### `tools`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,blender" width="240" alt="Development tools">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,blender" width="250" alt="Development tools">
 </p>
 
 </td>
