@@ -20,7 +20,7 @@ Aspiring software developer blending visual design, user experience, and technol
 
 <table>
 <tr>
-<td valign="top" width="50%" style="border: 0;">
+<td valign="top" width="50%">
 
 ### `frontend`
 
@@ -30,7 +30,7 @@ Aspiring software developer blending visual design, user experience, and technol
 
 </td>
 
-<td valign="top" width="50%" style="border: 0;">
+<td valign="top" width="50%">
 
 ### `backend`
 
@@ -39,14 +39,18 @@ Aspiring software developer blending visual design, user experience, and technol
 </p>
 
 </td>
-</tr>
-</table>
+
+<td valign="top" width="50%">
 
 ### `languages`
 
 <p>
   <img src="https://skillicons.dev/icons?i=javascript,python,php,java,cpp,dart" width="280" alt="Programming languages">
 </p>
+
+</td>
+</tr>
+</table>
 
 ### `tools`
 
