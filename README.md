@@ -21,7 +21,7 @@
   <tr>
     <td align="center" valign="top">
       <h3>frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" width="250">
+      <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap" width="250">
     </td>
     <td align="center" valign="top">
       <h3>backend</h3>
@@ -32,7 +32,7 @@
   <tr>
     <td align="center" valign="top">
       <h3>languages</h3>
-      <img src="https://skillicons.dev/icons?i=javascript,python,php,java,cpp,dart" width="250">
+      <img src="https://skillicons.dev/icons?i=javascript,python,php,java" width="250">
     </td>
     <td align="center" valign="top">
       <h3>tools</h3>
