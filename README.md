@@ -41,15 +41,8 @@
   </tr>
 </table>
 
-
-  ## `? skill set`
-
 <p align="center">
   <a href="https://github.com/saedoescode">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</p>
-
-<p align="center">
-  <sub>Built with questionable amounts of caffeine ☕</sub>
 </p>
