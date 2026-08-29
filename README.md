@@ -32,7 +32,7 @@
   <tr>
     <td align="center" valign="top">
       <h3>languages</h3>
-      <img src="https://skillicons.dev/icons?i=javascript,python,php,java" width="200">
+      <img src="https://skillicons.dev/icons?i=javascript,python,php,java" width="250">
     </td>
     <td align="center" valign="top">
       <h3>tools</h3>
