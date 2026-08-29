@@ -12,7 +12,6 @@
 
   ## `? skill set`
 
-
 <table align="left">
   <tr>
     <td align="center" valign="top">
@@ -40,7 +39,6 @@
 
 ## `$ currently --building`
 
-```text
 ▸ Web applications
 ▸ Developer tools
 ▸ Freelance projects
