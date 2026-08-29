@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# RYUZAKI SYSTEMS
-
 ### `freelance developer · software engineer`
 
 <img src="assets/character.gif" width="100">
