@@ -17,7 +17,7 @@
 
 ## `? skill set`
 
-<table align="left">
+<table align="left"  width="100">
   <tr>
     <td align="center" valign="top"  width="100">
       <h3>frontend</h3>
