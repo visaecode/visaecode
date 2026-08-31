@@ -1,4 +1,3 @@
-<details>
 <p align="center">
   <img src="assets/saedoescode.png" width="2000" alt="saedoescode">
 </p>
@@ -38,4 +37,3 @@
     </td>
   </tr>
 </table>
-</details>
